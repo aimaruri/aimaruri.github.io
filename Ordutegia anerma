@@ -1,0 +1,108 @@
+<table border="1">
+  <!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      text-align: center;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+    }
+
+    th {
+      background-color: #555;
+      color: white;
+    }
+
+    td:nth-child(2) { background-color: #e6f7ff; } /* Astelehena - azul claro */
+    td:nth-child(3) { background-color: #e0ffe0; } /* Asteartea - verde claro */
+    td:nth-child(4) { background-color: #fff0e6; } /* Asteazkena - naranja claro */
+    td:nth-child(5) { background-color: #f0e6ff; } /* Osteguna - morado claro */
+    td:nth-child(6) { background-color: #ffe6f0; } /* Ostirala - rosa claro */
+  </style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <th>Orduak</th>
+    <th>Astelehena</th>
+    <th>Asteartea</th>
+    <th>Asteazkena</th>
+    <th>Osteguna</th>
+    <th>Ostirala</th>
+  </tr>
+  <tr>
+    <td>8:30</td>
+    <td>Heziketa fisikoa</td>
+    <td>Gizarte</td>
+    <td>Ingles</td>
+    <td>Mate/Ingles</td>
+    <td>Mate</td>
+  </tr>
+  <tr>
+    <td>9:30</td>
+    <td>Heziketa fisikoa</td>
+    <td>Fisikimi</td>
+    <td>Euskera</td>
+    <td>Digit</td>
+    <td>GPS</td>
+  </tr>
+  <tr>
+    <td>10:30</td>
+    <td>Patioa</td>
+    <td>Patioa</td>
+    <td>Patioa</td>
+    <td>Patioa</td>
+    <td>Patioa</td>
+  </tr>
+  <tr>
+    <td>11:00</td>
+    <td>Digit</td>
+    <td>Tekno</td>
+    <td>Biziki</td>
+    <td>Gazte</td>
+    <td>Mate</td>
+  </tr>
+  <tr>
+    <td>12:00</td>
+    <td>Fisikimi</td>
+    <td>Mate</td>
+    <td>Gazte</td>
+    <td>Euskera</td>
+    <td>Gizarte</td>
+  </tr>
+  <tr>
+    <td>13:00</td>
+    <td>Bazkalordua</td>
+    <td>Bazkalordua</td>
+    <td>Bazkalordua</td>
+    <td>Bazkalordua</td>
+    <td>Bazkalordua</td>
+  </tr>
+  <tr>
+    <td>14:30</td>
+    <td>Ingles</td>
+    <td>Gazte/Euskera</td>
+    <td>Digit</td>
+    <td>Gizarte</td>
+    <td>Gazte</td>
+  </tr>
+  <tr>
+    <td>15:30</td>
+    <td>Mate</td>
+    <td>Ingles</td>
+    <td>Tekno</td>
+    <td>Fisikimi</td>
+    <td>Tekno</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
